@@ -27,7 +27,29 @@ namespace Hotsite.Controllers
         public IActionResult Cadastrar(Interesse cad)
         {
             DatabaseService dbs = new DatabaseService();
-            dbs.CadastraInteresse(cad);
+           Interesse interesseId = new Interesse();
+
+           
+            if(cad.Nome == null){
+                ViewBag.msg = "o campo nome não foi preenchido";
+                               
+            } else{
+                if(cad.Email == null){
+                      ViewBag.msg = "o campo E-mail não foi preenchido";
+                
+                }else{
+                    
+                    interesseId.Id = dbs.CadastraInteresse(cad);
+
+                       
+                    if(interesseId.Id > 0){
+                    ViewBag.msg = "cadastro realizado com sucesso";
+                
+                    }else{
+                       ViewBag.msg = "falha no cadastro, tente mais tarde";
+                    }
+                }
+            }
             return View("Index",cad);
         }
 
