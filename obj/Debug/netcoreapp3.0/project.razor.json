@@ -10185,8 +10185,28 @@
   "RootNamespace": "Hotsite",
   "Documents": [
     {
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\Home\\dicas.cshtml",
+      "TargetPath": "Views\\Home\\dicas.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\Home\\agenda.cshtml",
+      "TargetPath": "Views\\Home\\agenda.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\Home\\_formularioInteresse.cshtml",
+      "TargetPath": "Views\\Home\\_formularioInteresse.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\Home\\apoiadores.cshtml",
+      "TargetPath": "Views\\Home\\apoiadores.cshtml",
       "FileKind": "mvc"
     },
     {

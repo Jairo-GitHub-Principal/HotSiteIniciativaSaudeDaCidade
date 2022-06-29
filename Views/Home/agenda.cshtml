@@ -1,0 +1,31 @@
+@model List<agendasDeEventos>
+
+@{
+    Layout="_Layout";
+}
+ 
+  @foreach (agendasDeEventos item in Model)
+
+  {
+    <ul>
+        <li>data do evento : @item.dataEvento </li>
+        <li> nome do evento : @item.evento</li>
+    </ul>
+     
+ }
+
+
+
+
+
+                <div> <h1>Agenda</h1></div>
+        <h2>Esta é uma janela modal</h2>
+       
+    
+
+
+    
+
+
+
+

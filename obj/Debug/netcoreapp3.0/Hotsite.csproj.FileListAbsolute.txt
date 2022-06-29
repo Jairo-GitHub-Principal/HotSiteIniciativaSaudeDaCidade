@@ -61,3 +61,7 @@ I:\senac EAD\tec informatica para internet\MODULO B\UC06PublicarEtestarAplicacoe
 I:\senac EAD\tec informatica para internet\MODULO B\UC06PublicarEtestarAplicacoesWeb\ATV1uc06\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.dll
 I:\senac EAD\tec informatica para internet\MODULO B\UC06PublicarEtestarAplicacoesWeb\ATV1uc06\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.pdb
 I:\senac EAD\tec informatica para internet\MODULO B\UC06PublicarEtestarAplicacoesWeb\ATV1uc06\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.genruntimeconfig.cache
+I:\senac EAD\tec informatica para internet\MODULO B\UC06PublicarEtestarAplicacoesWeb\ATV1uc06\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\agenda.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC06PublicarEtestarAplicacoesWeb\ATV1uc06\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\apoiadores.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC06PublicarEtestarAplicacoesWeb\ATV1uc06\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\dicas.cshtml.g.cs
+I:\senac EAD\tec informatica para internet\MODULO B\UC06PublicarEtestarAplicacoesWeb\ATV1uc06\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\_formularioInteresse.cshtml.g.cs

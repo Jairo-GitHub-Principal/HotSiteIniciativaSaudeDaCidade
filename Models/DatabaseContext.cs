@@ -10,6 +10,10 @@ namespace Hotsite.Models
         }
 
         public DbSet<Interesse> Interesses { get; set; }
+           public DbSet<agendasDeEventos> agendas { get; set; }
+              public DbSet<dicas> dica { get; set; }
+                 public DbSet<apoiadores> apoiador { get; set; }
+
 
     }
 }

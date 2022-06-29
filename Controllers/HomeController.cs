@@ -20,38 +20,94 @@ namespace Hotsite.Controllers
 
         public IActionResult Index()
         {
+           return View();
+        }
+
+        public IActionResult agenda(){
+                DatabaseService ds = new DatabaseService();
+                
+            return View(ds.listarEvento().ToList());
+        }
+
+        public IActionResult cadastrarEvento(){
             return View();
         }
+        
+        [HttpPost]
+        public IActionResult cadastrarEvento( agendasDeEventos e){
+           DatabaseService ds = new DatabaseService();
+           ds.cadastrarEventos(e);
+            
+
+            return View();
+        }
+
+        public IActionResult dicas(){
+
+            return View(new DatabaseService().dica());
+        }
+
+        public IActionResult apoiadores(){
+
+            return View();
+        }
+
+
 
         [HttpPost]
         public IActionResult Cadastrar(Interesse cad)
         {
-            DatabaseService dbs = new DatabaseService();
-           Interesse interesseId = new Interesse();
+
+         try{            
+                        DatabaseService dbs = new DatabaseService();
+                    Interesse interesseId = new Interesse();
 
            
-            if(cad.Nome == null){
-                ViewBag.msg = "o campo nome não foi preenchido";
-                               
-            } else{
-                if(cad.Email == null){
-                      ViewBag.msg = "o campo E-mail não foi preenchido";
-                
-                }else{
+           
+                    if(cad.Nome == null)
+                    {
+                            ViewBag.msgErro = "o campo nome não foi preenchido";
+                                        
+                    } 
+                    else
+                    {
+                            if(cad.Email == null)
+                        {
+                            ViewBag.msgErro = "o campo E-mail não foi preenchido";
+                        
+                        }
+                        else
+                        {
                     
-                    interesseId.Id = dbs.CadastraInteresse(cad);
+                   
+                                interesseId.Id = dbs.CadastraInteresse(cad);
 
-                       
-                    if(interesseId.Id > 0){
-                    ViewBag.msg = "cadastro realizado com sucesso";
-                
-                    }else{
-                       ViewBag.msg = "falha no cadastro, tente mais tarde";
+                                
+                                if(interesseId.Id > 0)
+                               {
+                                   ViewBag.msgExito = "cadastro realizado com sucesso";
+                               }
+                        }       
                     }
                 }
-            }
-            return View("Index",cad);
+                catch
+                {
+                           
+                       ViewBag.msgErroDeCadastro = "falha no cadastro! tente mais tarde";
+                }
+                     return View("Index",cad);
+            
+           
         }
 
+
+
+
+
+        
+
+       
     }
-}
+
+}   
+
