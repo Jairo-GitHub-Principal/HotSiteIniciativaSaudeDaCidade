@@ -1,5 +1,5 @@
 {
-  "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Hotsite.csproj",
+  "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Hotsite.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,53 +14402,53 @@
   "RootNamespace": "Hotsite",
   "Documents": [
     {
-      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\Home\\dicas.cshtml",
-      "TargetPath": "Views\\Home\\dicas.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\Home\\agenda.cshtml",
-      "TargetPath": "Views\\Home\\agenda.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\Home\\cadastrarEvento.cshtml",
-      "TargetPath": "Views\\Home\\cadastrarEvento.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\_ViewImports.cshtml",
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\Home\\apoiadores.cshtml",
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Views\\Home\\apoiadores.cshtml",
       "TargetPath": "Views\\Home\\apoiadores.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Views\\_ViewStart.cshtml",
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Views\\Home\\cadastrarEvento.cshtml",
+      "TargetPath": "Views\\Home\\cadastrarEvento.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Views\\Home\\agenda.cshtml",
+      "TargetPath": "Views\\Home\\agenda.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Views\\Home\\dicas.cshtml",
+      "TargetPath": "Views\\Home\\dicas.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "i:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],

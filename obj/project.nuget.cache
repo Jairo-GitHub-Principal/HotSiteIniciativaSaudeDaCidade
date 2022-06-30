@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mcpvNWGxHZqVZuApBRshsqEU01I+9f+4eyfz4OAdMuR+0aCwQJ64cwN68vRCkko5XXD2da3Xbq+djYmlRf0FuQ==",
+  "dgSpecHash": "9A5o9SkWpDd5JKGJLACNmARh/4q8VAUH5zsJgN89Q1az6i+bSAEE6U6KSB5MPF4GuPhsDRZ5mWkNu5hDhAicdg==",
   "success": true,
-  "projectFilePath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Hotsite.csproj",
+  "projectFilePath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Hotsite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jairo\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",
     "C:\\Users\\jairo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Hotsite.csproj": {}
+    "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Hotsite.csproj": {}
   },
   "projects": {
-    "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Hotsite.csproj": {
+    "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Hotsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Hotsite.csproj",
+        "projectUniqueName": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Hotsite.csproj",
         "projectName": "Hotsite",
-        "projectPath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\Hotsite.csproj",
+        "projectPath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\Hotsite.csproj",
         "packagesPath": "C:\\Users\\jairo\\.nuget\\packages\\",
-        "outputPath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV1uc06\\projetohotsite\\obj\\",
+        "outputPath": "I:\\senac EAD\\tec informatica para internet\\MODULO B\\UC06PublicarEtestarAplicacoesWeb\\ATV2uc06\\TestePublicaçãoProj\\projetohotsite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
